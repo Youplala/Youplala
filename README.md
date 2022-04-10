@@ -1,4 +1,4 @@
-### 
+### Hi there
 
 - 🤖 I'm a data science / software engineer intern at Humanitics.ai in Station F
 - 👀 I’m learning all about developing a data science fueled product in Python while attending French engineering classes
